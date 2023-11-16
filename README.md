@@ -4,9 +4,9 @@
 
 <br>
 
-- 🔭 Currently working on SGRC
-- 🌱 Learning PHP, C#, and TypeScript
-- 🤖 Explore my projects on [my portfolio](https://portfolio-killyan.vercel.app/)
+- 🔭 Currently working on my portfolio
+- 🌱 Learning ReactJS
+- 🤖 Explore my projects on [my portfolio](https://portfolio-ilyes.vercel.app/)
 
 <br>
 
@@ -29,12 +29,12 @@
 
 <br>
 <p align="center">
-  <a href="https://linkedin.com/in/killyan-batailler"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" target="_blank"></a>
-  <a href="https://portfolio-killyan.vercel.app"><img src="https://img.shields.io/badge/My%20Portfolio-black" height="30px" style="margin-left: 4px" target="_blank"></a>
+  <a href="https://linkedin.com/in/ilyes-beirade"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" target="_blank"></a>
+  <a href="https://portfolio-ilyes.vercel.app"><img src="https://img.shields.io/badge/My%20Portfolio-black" height="30px" style="margin-left: 4px" target="_blank"></a>
 </p>
 <br>
 
-## 📊 GitHub Status
+## 📊 GitHub Stats
 
 <br>
 <p align="center">
