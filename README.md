@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30px" style="margin-bottom: 4px;">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30px" style="margin-bottom: 4px;">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="30px" style="margin-bottom: 4px;">
-    <img src="https://img.shields.io/badge/tailwind%23323330.svg?style=for-the-badge&logo=tailwind&logoColor=%23F7DF1E" height="30px" style="margin-bottom: 4px;">
+    <img src="https://img.shields.io/badge/tailwindcss%23323330.svg?style=for-the-badge&logo=tailwindcss&logoColor=%23F7DF1E" height="30px" style="margin-bottom: 4px;">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="30px" style="margin-bottom: 4px;">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="30px" style="margin-bottom: 4px;">
 </p>
