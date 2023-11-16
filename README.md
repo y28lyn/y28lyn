@@ -29,7 +29,6 @@
 <br>
 <p align="center">
   <a href="https://linkedin.com/in/ilyes-beirade"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" target="_blank"></a>
-  <a href="https://portfolio-ilyes.vercel.app"><img src="https://img.shields.io/badge/Portfolio-white" height="30px" style="margin-left: 4px border-radius: 0px" target="_blank"></a>
 </p>
 <br>
 
