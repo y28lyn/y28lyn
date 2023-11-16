@@ -5,7 +5,6 @@
 <br>
 
 - 🔭 Currently working on my portfolio and SGRC
-- 🌱 Learning ReactJS
 - 🤖 Explore my projects on [my portfolio](https://portfolio-ilyes.vercel.app/)
 
 <br>
