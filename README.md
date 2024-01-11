@@ -1,6 +1,6 @@
 # <div align="center"> Hi there 👋, I'm Ilyes
 ### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile+!;I'm+a+French+student+developer)](https://git.io/typing-svg)
-## 💫 A Little Bit More About Me
+## 💫 A little bit more about me
 
 <br>
 
@@ -23,7 +23,7 @@
 </p>
 <br>
 
-## 👥 Connect With Me
+## 👥 Connect with me
 
 <br>
 <p align="center">
@@ -31,7 +31,7 @@
 </p>
 <br>
 
-## 📊 GitHub Stats
+## 📊 GitHub stats
 
 <br>
 <p align="center">
