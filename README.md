@@ -4,7 +4,7 @@
 
 <br>
 
-- 🔭 Currently working on my portfolio, "SGRC", "manif" and "caisse".
+- 🔭 Currently working on Autoclean, DCS, and my portfolio.
 - 🤖 Explore my projects on [my portfolio](https://portfolio-ilyes.vercel.app/)
 
 <br>
