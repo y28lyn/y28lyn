@@ -4,7 +4,7 @@
 
 <br>
 
-- 🔭 Currently working on Autoclean and Track It.
+- 🔭 Currently working on Autoclean, Track It and Manif.
 - 🤖 Explore my projects on [my portfolio](https://portfolio-ilyes.vercel.app/)
 
 <br>
