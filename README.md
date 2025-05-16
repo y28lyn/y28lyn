@@ -4,7 +4,7 @@
 
 <br>
 
-- 🔭 I'm currently looking for a work-study placement in web or application development for a professional degree at the University of Lyon 1, where I work every other week.
+- 🔭 I'm currently looking for a work-study placement in web or application development for a professional degree at the University of Lyon 1 or MyDigitalSchool, where I work every other week.
 - 🤖 Explore my projects on [my portfolio](https://portfolio-ilyes.vercel.app/)
 
 <br>
