@@ -1,10 +1,10 @@
 # <div align="center"> Hi there 👋, I'm Ilyes
-### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile+!;I'm+a+French+student+developer)](https://git.io/typing-svg)
+### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile+!;I'm+a+future+French+teacher)](https://git.io/typing-svg)
 ## 💫 A little bit more about me
 
 <br>
 
-- 🔭 I'm currently looking for a work-study placement in web or application development for a professional degree at the University of Lyon 1 or MyDigitalSchool.
+- 🔭 I'm currently at the University of Lyon 2 to prepare the CRPE.
 - 🤖 Explore my projects on [my portfolio](https://portfolio-ilyes.vercel.app/)
 
 <br>
