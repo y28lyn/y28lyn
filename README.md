@@ -29,11 +29,3 @@
 <p align="center">
   <a href="https://linkedin.com/in/ilyes-beirade"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" target="_blank"></a>
 </p>
-<br>
-
-## 📊 GitHub stats
-
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=y28lyn&show_icons=true&theme=github_dark">
-</p>
